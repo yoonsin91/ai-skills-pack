@@ -85,7 +85,7 @@ Next Steps:
 
 ## 🏷️ Tags
 
-`meetings` `productivity` `communication` `productivity`
+`meetings` `productivity` `communication` `collaboration`
 
 ## 👤 Author
 
